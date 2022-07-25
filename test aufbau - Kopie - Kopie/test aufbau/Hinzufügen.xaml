@@ -1,0 +1,27 @@
+﻿<Window x:Class="test_aufbau.Hinzufügen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:test_aufbau"
+        mc:Ignorable="d"
+        Title="Hinzufügen" Height="450" Width="800">
+    <Grid>
+
+
+
+
+
+        <TextBlock HorizontalAlignment="Left" Margin="-222,190,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+
+        <Label x:Name="ueberschrift" HorizontalContentAlignment="Center" Content="Bitte wählen Sie ein Gericht" HorizontalAlignment="Center" Margin="0,14,0,0" VerticalAlignment="Top" Width="540" Height="73" FontSize="25"/>
+        <ListBox x:Name="Speisekarte" HorizontalAlignment="Left" Height="283" Margin="430,92,0,0" VerticalAlignment="Top" Width="339" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <Label Content="Folgendes Gericht haben sie gewählt, zum besätigen bitte bestellen drücken" HorizontalAlignment="Left" Height="62" Margin="10,87,0,0" VerticalAlignment="Top" Width="415"/>
+        <Label x:Name="bestelltes" HorizontalAlignment="Left" Height="57" Margin="54,118,0,0" VerticalAlignment="Top" Width="327"/>
+        <Button Content="bestellen" Click="Button_Click_1" HorizontalAlignment="Left" Height="49" Margin="10,318,0,0" VerticalAlignment="Top" Width="163"/>
+        <Button Content="auswählen" Click="Button_Click" HorizontalAlignment="Left" Height="49" Margin="232,318,0,0" VerticalAlignment="Top" Width="163"/>
+        <Label Content="" x:Name="username_testen"   HorizontalAlignment="Left" Height="34" Margin="400,376,0,0" VerticalAlignment="Top" Width="117"/>
+        <TextBox x:Name="Nudelart" HorizontalAlignment="Left" Height="32" Margin="281,0,0,0"  TextWrapping="Wrap"  VerticalAlignment="Center" Width="145"/>
+        <Label Content="Bitte Ihren Wunsch angeben, je Wunsch + 0,50€" x:Name="arten_nudel"   HorizontalAlignment="Left" Height="45" Margin="10,202,0,0" VerticalAlignment="Top" Width="266"/>
+    </Grid>
+</Window>

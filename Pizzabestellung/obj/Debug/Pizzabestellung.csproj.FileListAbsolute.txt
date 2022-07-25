@@ -1,0 +1,16 @@
+C:\Users\c.fitz\source\repos\Pizzabestellung\Pizzabestellung\bin\Debug\Pizzabestellung.exe.config
+C:\Users\c.fitz\source\repos\Pizzabestellung\Pizzabestellung\bin\Debug\Pizzabestellung.exe
+C:\Users\c.fitz\source\repos\Pizzabestellung\Pizzabestellung\bin\Debug\Pizzabestellung.pdb
+C:\Users\c.fitz\source\repos\Pizzabestellung\Pizzabestellung\obj\Debug\Pizzabestellung.csproj.AssemblyReference.cache
+C:\Users\c.fitz\source\repos\Pizzabestellung\Pizzabestellung\obj\Debug\Pizzabestellung.csproj.SuggestedBindingRedirects.cache
+C:\Users\c.fitz\source\repos\Pizzabestellung\Pizzabestellung\obj\Debug\MainWindow.g.cs
+C:\Users\c.fitz\source\repos\Pizzabestellung\Pizzabestellung\obj\Debug\App.g.cs
+C:\Users\c.fitz\source\repos\Pizzabestellung\Pizzabestellung\obj\Debug\Pizzabestellung_MarkupCompile.cache
+C:\Users\c.fitz\source\repos\Pizzabestellung\Pizzabestellung\obj\Debug\Pizzabestellung_MarkupCompile.lref
+C:\Users\c.fitz\source\repos\Pizzabestellung\Pizzabestellung\obj\Debug\MainWindow.baml
+C:\Users\c.fitz\source\repos\Pizzabestellung\Pizzabestellung\obj\Debug\Pizzabestellung.g.resources
+C:\Users\c.fitz\source\repos\Pizzabestellung\Pizzabestellung\obj\Debug\Pizzabestellung.Properties.Resources.resources
+C:\Users\c.fitz\source\repos\Pizzabestellung\Pizzabestellung\obj\Debug\Pizzabestellung.csproj.GenerateResource.cache
+C:\Users\c.fitz\source\repos\Pizzabestellung\Pizzabestellung\obj\Debug\Pizzabestellung.csproj.CoreCompileInputs.cache
+C:\Users\c.fitz\source\repos\Pizzabestellung\Pizzabestellung\obj\Debug\Pizzabestellung.exe
+C:\Users\c.fitz\source\repos\Pizzabestellung\Pizzabestellung\obj\Debug\Pizzabestellung.pdb

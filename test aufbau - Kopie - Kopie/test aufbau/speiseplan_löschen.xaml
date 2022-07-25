@@ -1,0 +1,22 @@
+﻿<Window x:Class="test_aufbau.speiseplan_löschen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:test_aufbau"
+        mc:Ignorable="d"
+        Title="speiseplan_löschen" Height="450" Width="800">
+    <Grid>
+
+
+        <ListBox x:Name="Speiseplan" HorizontalAlignment="Left" Height="177" Margin="400,146,0,0" VerticalAlignment="Top" Width="322" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <Button Content="Löschen" Click="Button_Click" HorizontalAlignment="Left" Margin="54,185,0,0" VerticalAlignment="Top" Height="99" Width="242"/>
+        <Label Content="Wählen Sie das Gericht aus, dass Sie Löschen möchten"  HorizontalAlignment="Left" Height="59" Margin="175,34,0,0" VerticalAlignment="Top" Width="655" FontSize="18"/>
+
+
+
+
+
+
+    </Grid>
+</Window>
